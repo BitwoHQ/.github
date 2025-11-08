@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://bitwo.io" target="_blank">
-    <img src="https://arweave.net/8-fY9mJxhG1ldYzB9D5LD6L5PQQ9vdQeRiwnIPpiJSM" alt="Banner" />
+    <img src="https://github.com/BitwoHQ/.github/blob/main/assets/img/banner.png?raw=true" alt="Banner" />
   </a>
 
   <a href="https://bitwo.io" target="_blank">
